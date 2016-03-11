@@ -1,6 +1,6 @@
 /* *******************************************************************
 Author:    Khaja Anwar Ali Siddiqui
-All the copy rights are reserved, you're not suppose to download/distribute/copy without the prior approval.
+All the copyrights are reserved, you're not suppose to download/distribute/copy without the prior approval.
 Purpose:   Movie Recommendation System using pearson similarity co-efficient.
 *********************************************************************/
 //	Including the necessary packages	//
