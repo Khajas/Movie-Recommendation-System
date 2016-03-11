@@ -64,7 +64,7 @@ public class src{
         void getMovieRatings(ArrayList<ArrayList<Integer>> reviewers, ArrayList<Integer> rating){
 		Scanner readRatings=null;
                 try{
-                        readRatings=new Scanner(Paths.get("/home/turing/t90rkf1/d470/dhw/hw2-movies/movie-matrix.txt"));
+                        readRatings=new Scanner(Paths.get("movie-matrix.txt"));
                 }
                 catch(IOException ioException){
                         System.err.println("Error opening file");	//Trying to open the file.
@@ -99,7 +99,7 @@ public class src{
         void getMovieNames(ArrayList<String> movies){
                 Scanner readMovies=null;
 		try{
-                        readMovies=new Scanner(Paths.get("/home/turing/t90rkf1/d470/dhw/hw2-movies/movie-names.txt"));	//Trying to open the file.
+                        readMovies=new Scanner(Paths.get("movie-names.txt"));	//Trying to open the file.
                 }
                 catch(IOException ioException){
                         System.err.println("Error opening file");
