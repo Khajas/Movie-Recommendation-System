@@ -19,6 +19,8 @@ Print the top 20 comparison movies with their Pearson r value. Print headers on 
 
 // Data:
 
-The files movie-matrix.txt and movie-names.txt are available in d470/dhw/hw02-movies. When running on turing, your program should open these files, not your own copies of them. If you are testing on a machine with a different directory structure, I suggest you use an optional command line parameter that defaults to the file structure on turing.
+The files movie-matrix.txt and movie-names.txt
+
 Each record in movie-matrix.txt represents people’s ratings of one movie, i.e., the first reviewer’s rating, the second reviewer’s rating, etc. Each rating is followed by a ‘;’. When you see two semicolons in a row, that is effectively a null rating followed by a semicolon, i.e., it indicates that the given reviewer didn’t rate the movie. This type of layout is frequently used to save space in a sparse matrix, i.e., a file with a lot of zeroes.
+
 The movie-names.txt file gives the names of the movies, i.e, the first record gives the name of the first movie in movie-matrix.txt, etc.
