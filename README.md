@@ -1,4 +1,7 @@
 # Movie-Recommendation-System
+
+THERE ARE NO DATA FILES BECAUSE OF NON-DISCLOSER AGREEMENT
+
 Movie Recommendation system allows a user to see a list of recommended movies based on (s)he movie ratings.
 Goal:
 Given a movie (represented by movie number in a list of movies), find the 20 movies in the list that are most similar to it. Measure similarity by using the Pearson r coefficient among same reviewers.
