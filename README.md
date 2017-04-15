@@ -27,3 +27,5 @@ The files movie-matrix.txt and movie-names.txt
 Each record in movie-matrix.txt represents people’s ratings of one movie, i.e., the first reviewer’s rating, the second reviewer’s rating, etc. Each rating is followed by a ‘;’. When you see two semicolons in a row, that is effectively a null rating followed by a semicolon, i.e., it indicates that the given reviewer didn’t rate the movie. This type of layout is frequently used to save space in a sparse matrix, i.e., a file with a lot of zeroes.
 
 The movie-names.txt file gives the names of the movies, i.e, the first record gives the name of the first movie in movie-matrix.txt, etc.
+
+NOTE : THERE ARE NO SOURCE FILES ATTACHED SINCE I SIGNED THE NON-DISCLOSURE AGREEMENT.
